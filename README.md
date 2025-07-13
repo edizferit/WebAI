@@ -1,7 +1,7 @@
 # WebAI
 This web application features a range of AI functionalities, including data loading, processing, training, and prediction. Originally developed for estimating subsurface CO2 flow simulations, the package is currently being expanded to accommodate a variety of applications.
 
-Function API can be found [here](https://acse-efk23.github.io/WebAI/).
+Function API can be found [here](https://edizferit.github.io/WebAI/).
 
 ### Usage
 ---
